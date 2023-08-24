@@ -99,7 +99,7 @@ export default function Table() {
 				paginationRowsPerPageOptions={[25, 50, 100]}
 				progressPending={loading}
 				progressComponent={<h1>LOADING...</h1>}
-				// selectableRows
+				selectableRows
 				highlightOnHover
 			/>
 		</div>
