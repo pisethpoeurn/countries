@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CountriesList/tree/master/static/css/main.073c9b0a.css",
+    "main.js": "/CountriesList/tree/master/static/js/main.b1e4fada.js",
+    "index.html": "/CountriesList/tree/master/index.html",
+    "main.073c9b0a.css.map": "/CountriesList/tree/master/static/css/main.073c9b0a.css.map",
+    "main.b1e4fada.js.map": "/CountriesList/tree/master/static/js/main.b1e4fada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b1e4fada.js"
+  ]
+}
