@@ -80,7 +80,7 @@ export default function Table() {
 
 	return (
 		<div className="table">
-			 <p className="title"> Countries List</p>
+			 <p className="title"> <strong> Countries List </strong></p>
 			<div className="search-container">
 				<input
 				type="search"
